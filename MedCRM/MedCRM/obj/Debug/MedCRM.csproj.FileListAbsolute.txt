@@ -36,3 +36,22 @@ F:\!!!!!!!Учеба\Курсовой проект (C#, WinForms)\MedCRM\MedCRM\
 F:\!!!!!!!Учеба\Курсовой проект (C#, WinForms)\MedCRM\MedCRM\obj\Debug\MedCRM.csproj.CoreCompileInputs.cache
 F:\!!!!!!!Учеба\Курсовой проект (C#, WinForms)\MedCRM\MedCRM\obj\Debug\MedCRM.exe
 F:\!!!!!!!Учеба\Курсовой проект (C#, WinForms)\MedCRM\MedCRM\obj\Debug\MedCRM.pdb
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\bin\Debug\MedCRM.exe.config
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\bin\Debug\MedCRM.exe
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\bin\Debug\MedCRM.pdb
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Forms.AddPatientForm.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.AuthorizationForm.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Forms.DispensForm.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Forms.DoctorCreateMedRep.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Forms.DoctorMenu.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Forms.MainMenuForm.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Forms.MedicalHistory.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Forms.ReportForm.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Forms.ScheduleForm.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.Properties.Resources.resources
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.exe
+C:\Users\User\Desktop\Homework\C#\Homework\MedCRM\MedCRM\MedCRM\obj\Debug\MedCRM.pdb

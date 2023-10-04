@@ -21,7 +21,7 @@ namespace MedCRM
 
         public static object[] Specialty { get; set; } = new object[]
         {
-            "Терапия", "Хирургия", "Неврология", "Офтальмология"
+            "Терапия", "Хирургия", "Неврология", "Офтальмология", "Гинекология"
         };
 
         public static Dictionary<string, Doctor> DoctorsBase = new Dictionary<string, Doctor>()
