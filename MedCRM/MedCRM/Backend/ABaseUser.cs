@@ -7,7 +7,6 @@ using System.Windows.Forms;
 
 namespace MedCRM
 {
-    //ДАБАВИТЬ ВАЛИДАЦИЮ ПАЛЕЙ!!!!!!!!!!!!!!! УУУУ СУКА
     internal class ABaseUser : IUser
     {
         public int UserID { get; set; }
