@@ -29,7 +29,6 @@ namespace MedCRM
         }
 
         //////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        //Оставить одну функцию
         //public void CreateMedicalReportAddPatient(Visit _visit, string diagnosis, string complaints, string anamnesis, string examinationData, string appointments)
         //{
         //    MedicalReport newRep = new MedicalReport(_visit, diagnosis,complaints, anamnesis, examinationData, appointments);
